@@ -1,8 +1,8 @@
 # CFM-Diatom
 CFM-Diatom
 
-<br>Preparation:
-Download all the files, put them in one flder and organize path. 
+Preparation:
+<br>Download all the files, put them in one flder and organize path. 
 
 Fig 2: run s010_00_02_genfromtxt.py
 
