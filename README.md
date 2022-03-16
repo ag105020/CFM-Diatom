@@ -1,5 +1,4 @@
 # CFM-Diatom
-CFM-Diatom
 
 Preparation:
 <br>Download all the files, put them in one flder and organize path. 
