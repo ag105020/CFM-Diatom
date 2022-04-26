@@ -5,6 +5,6 @@ Preparation:
 
 Fig 2: run s010_00_02_genfromtxt.py
 
-Fig 4: run s001_06_05_new_value.py s001_06_06_new_value.py s008_00_05_plot_unit.py 
+Fig 4: run s008_00_05_plot_unit.py 
 
 Fig 5: run s008_00_05_plot_unit.py
