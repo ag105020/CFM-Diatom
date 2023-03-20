@@ -9,6 +9,6 @@ Fig 4: run s008_00_05
 
 Fig 5: run s008_00_13
 
-Fig S1: run s008_00 13_01
+Fig S2: run s008_00 13_01
 
-Fig S2: run s008 00 10
+Fig S3: run s008 00 10
